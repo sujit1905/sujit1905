@@ -48,8 +48,8 @@ I enjoy coding, learning new technologies, and sharing knowledge with the commun
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujitmecwan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitmecwan&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujit1905&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit1905&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -57,20 +57,17 @@ I enjoy coding, learning new technologies, and sharing knowledge with the commun
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sujitmecwan" target="_blank">
+  <a href="https://www.linkedin.com/in/sujit-mecwan-609734245/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sujitmecwan@gmail.com" target="_blank">
+  <a href="mailto:mecwansujit@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/sujitmecwan" target="_blank">
+  <a href="https://github.com/sujit1905" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://portfolio.sujitmecwan.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
