@@ -4,13 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Coder+%7C+Problem+Solver;Backend+Engineer;Frontend+Designer;Database+Architect;DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
 Building robust applications from frontend to backend
 </div>
+
 ```javascript
-const developer = {
-    name: "Your Name",
-    role: "Full Stack Developer",
-    location: "📍 Your Location",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    focus: "Building applications that make a difference",
 const developer = {
     name: "Sujit Mecwan",
     role: "Full Stack Developer",
