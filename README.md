@@ -1,21 +1,15 @@
 <div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗           ║
-║   ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║           ║
-║   ███████║█████╗  ██║     ██║     ██║   ██║    ██║           ║
-║   ██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ╚═╝           ║
-║   ██║  ██║███████╗███████╗███████╗╚██████╔╝    ██╗           ║
-║   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝     ╚═╝           ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-### Full Stack Developer 💻 | Problem Solver 🧩 | Code Enthusiast ⚡
-
+👨‍💻 Full Stack Developer
+Coder | Problem Solver | Tech Enthusiast | Open Source Contributor
+Building robust applications from frontend to backend
 </div>
+```javascript
+const developer = {
+    name: "Your Name",
+    role: "Full Stack Developer",
+    location: "📍 Your Location",
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    focus: "Building applications that make a difference",
 
 ```javascript
 const developer = {
