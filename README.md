@@ -63,57 +63,6 @@ const developer = {
 
 ---
 
-## 🔥 Recent Work
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Project Alpha
-**Stack:** React • Node.js • MongoDB
-
-Modern web app with real-time features and intuitive UI. Handles 10K+ concurrent users with optimized performance.
-
-**[View Demo →](PROJECT_LINK)** | **[Source Code](REPO_LINK)**
-
-</td>
-<td width="50%">
-
-### 🌐 Project Beta  
-**Stack:** Next.js • PostgreSQL • AWS
-
-Full-featured platform with authentication, payment processing, and admin dashboard.
-
-**[View Demo →](PROJECT_LINK)** | **[Source Code](REPO_LINK)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📱 Project Gamma
-**Stack:** TypeScript • Express • Docker
-
-Scalable microservices architecture with containerized deployment and CI/CD pipeline.
-
-**[View Demo →](PROJECT_LINK)** | **[Source Code](REPO_LINK)**
-
-</td>
-<td width="50%">
-
-### 🎨 Project Delta
-**Stack:** Vue.js • Python • Redis
-
-High-performance application with caching layer and real-time data synchronization.
-
-**[View Demo →](PROJECT_LINK)** | **[Source Code](REPO_LINK)**
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📈 GitHub Activity
 
