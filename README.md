@@ -77,9 +77,9 @@ const developer = {
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=sujit1905&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sujit1905&theme=tokyonight&hide_border=true)
 
 </div>
 
