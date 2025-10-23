@@ -1,117 +1,227 @@
-# 👋 Hello, I'm Sujit Mecwan
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗           ║
+║   ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║           ║
+║   ███████║█████╗  ██║     ██║     ██║   ██║    ██║           ║
+║   ██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ╚═╝           ║
+║   ██║  ██║███████╗███████╗███████╗╚██████╔╝    ██╗           ║
+║   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝     ╚═╝           ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+### Full Stack Developer 💻 | Problem Solver 🧩 | Code Enthusiast ⚡
+
+</div>
+
+```javascript
+const developer = {
+    name: "Sujit Mecwan",
+    role: "Full Stack Developer",
+    location: "📍 Your Location",
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    focus: "Building applications that make a difference",
+    
+    technologies: {
+        frontend: ["React", "Next.js", "Vue", "Angular"],
+        backend: ["Node.js", "Express", "Django", "FastAPI"],
+        database: ["MongoDB", "PostgreSQL", "MySQL"],
+        devOps: ["Docker", "AWS", "CI/CD", "Nginx"],
+        tools: ["Git", "VS Code", "Postman", "Figma"]
+    },
+    
+    currentlyLearning: "Web3 & Blockchain Development",
+    openToWork: true,
+    
+    lifeCycle: () => {
+        while(alive) {
+            eat();
+            code();
+            sleep();
+            repeat();
+        }
+    }
+}
+```
+
+---
+
+## 🎯 What I Do
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Frontend Development    │  Backend Architecture           │
+│  ✓ Responsive UI/UX      │  ✓ RESTful APIs                 │
+│  ✓ Modern Frameworks     │  ✓ Database Design              │
+│  ✓ State Management      │  ✓ Server Optimization          │
+│  ✓ Performance Tuning    │  ✓ Security Best Practices      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🔥 Recent Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Project Alpha
+**Stack:** React • Node.js • MongoDB
+
+Modern web app with real-time features and intuitive UI. Handles 10K+ concurrent users with optimized performance.
+
+**[View Demo →](PROJECT_LINK)** | **[Source Code](REPO_LINK)**
+
+</td>
+<td width="50%">
+
+### 🌐 Project Beta  
+**Stack:** Next.js • PostgreSQL • AWS
+
+Full-featured platform with authentication, payment processing, and admin dashboard.
+
+**[View Demo →](PROJECT_LINK)** | **[Source Code](REPO_LINK)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Project Gamma
+**Stack:** TypeScript • Express • Docker
+
+Scalable microservices architecture with containerized deployment and CI/CD pipeline.
+
+**[View Demo →](PROJECT_LINK)** | **[Source Code](REPO_LINK)**
+
+</td>
+<td width="50%">
+
+### 🎨 Project Delta
+**Stack:** Vue.js • Python • Redis
+
+High-performance application with caching layer and real-time data synchronization.
+
+**[View Demo →](PROJECT_LINK)** | **[Source Code](REPO_LINK)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+```text
+🔥 Streak Stats:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Current Streak: Building every day
+  Contributions: Pushing code that matters
+  Focus: Quality over quantity
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 <div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Frontend Magic ✨**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend Power ⚡**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Database & Storage 💾**
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Tools 🔧**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 💡 Philosophy
+
+```python
+def build_software():
+    principles = [
+        "Write clean, maintainable code",
+        "Test thoroughly, deploy confidently", 
+        "User experience is everything",
+        "Never stop learning"
+    ]
+    
+    for principle in principles:
+        apply(principle)
+        improve()
+    
+    return "Software that makes an impact"
+```
+
+---
+
+## 📬 Get In Touch
+
+```yaml
+contact:
+  email: your.email@example.com
+  linkedin: /in/yourprofile
+  portfolio: yourwebsite.com
+  twitter: @yourhandle
   
-### Full Stack Developer | Building Digital Experiences
-
-*Crafting scalable solutions from database to deployment*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a passionate full stack developer who loves turning ideas into reality through code. With expertise spanning both frontend aesthetics and backend architecture, I build complete solutions that are not just functional, but delightful to use.
-
-- 🔭 Currently working on innovative web applications
-- 🌱 Always learning and exploring new technologies
-- 💡 Open to collaborating on interesting projects
-- ⚡ Fun fact: I debug with console.log and I'm not ashamed
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 🏆 Featured Projects
-
-### 🌟 [Project Name](PROJECT_LINK)
-**Tech:** React, Node.js, MongoDB, Express  
-A comprehensive web application that solves [problem]. Features include real-time updates, user authentication, and responsive design.
-
-### 🌟 [Project Name](PROJECT_LINK)
-**Tech:** Next.js, TypeScript, PostgreSQL, Prisma  
-Full-stack e-commerce platform with payment integration, admin dashboard, and inventory management system.
-
-### 🌟 [Project Name](PROJECT_LINK)
-**Tech:** Python, FastAPI, React, Docker  
-RESTful API with modern frontend, featuring automated testing, CI/CD pipeline, and containerized deployment.
-
----
-
-## 💼 Professional Experience
-
-**Full Stack Developer** | Company Name  
-*Month Year - Present*
-- Developed and maintained scalable web applications
-- Collaborated with cross-functional teams
-- Optimized application performance and user experience
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in hearing about new projects and opportunities. Whether you want to collaborate or just chat about tech, feel free to reach out!
+status: 
+  - Available for freelance projects
+  - Open to collaboration
+  - Always up for tech discussions
+```
 
 <div align="center">
 
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+**Let's build something amazing together!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-
-</div>
+[💼 Portfolio](YOUR_PORTFOLIO) • [💌 Email](mailto:YOUR_EMAIL) • [🔗 LinkedIn](YOUR_LINKEDIN) • [🐦 Twitter](YOUR_TWITTER)
 
 ---
 
-<div align="center">
-  <i>⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)</i>
+⭐ **Fun Fact:** I believe the best debugging tool is actually `console.log()` — prove me wrong!
+
+![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+
+*"First, solve the problem. Then, write the code." – John Johnson*
+
 </div>
