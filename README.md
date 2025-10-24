@@ -1,8 +1,12 @@
 <h1 align="center">👋 Hey there, I'm Sujit Mecwan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=550&lines=🚀+Passionate+MERN+Stack+Developer;🧠+Problem+Solver;💡+Tech+Enthusiast" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7EF&center=true&vCenter=true&width=550&lines=🚀+Passionate+MERN+Stack+Developer;🧠+Problem+Solver;💡+Tech+Enthusiast" 
+    alt="Typing Animation" 
+  />
 </p>
+
 
 
 ---
