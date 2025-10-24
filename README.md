@@ -59,14 +59,6 @@
 
 ---
 
-### 🏗️ My Projects
-Here are some of my favorite projects:
-- 🔹 [Portfolio Website](https://portfolio.sujitmecwan.com/)
-- 🔹 [Hotel Management System (C++)](#)
-- 🔹 [JavaScript Learning Series](#)
-- 🔹 More projects coming soon...
-
----
 
 ### 🎯 Goals for 2025
 - 🚀 Master Next.js and TypeScript  
