@@ -1,164 +1,79 @@
-<div align="center">
-👨‍💻 Full Stack Developer
-    
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Coder+%7C+Problem+Solver;Backend+Engineer;Frontend+Designer;Database+Architect;DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
-Building robust applications from frontend to backend
-</div>
+<h1 align="center">👋 Hey there, I'm Sujit Mecwan</h1>
 
-```javascript
-const developer = {
-    name: "Sujit Mecwan",
-    role: "Full Stack Developer",
-    location: "📍 Your Location",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    focus: "Building applications that make a difference",
-    
-    technologies: {
-        frontend: ["React", "Next.js", "Vue", "Angular"],
-        backend: ["Node.js", "Express", "Django", "FastAPI"],
-        database: ["MongoDB", "PostgreSQL", "MySQL"],
-        devOps: ["Docker", "AWS", "CI/CD", "Nginx"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    
-    currentlyLearning: "Web3 & Blockchain Development",
-    openToWork: true,
-    
-    lifeCycle: () => {
-        while(alive) {
-            eat();
-            code();
-            sleep();
-            repeat();
-        }
-    }
-}
-```
+<h3 align="center">🚀 Passionate MERN Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
-## 🎯 What I Do
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Frontend Development    │  Backend Architecture           │
-│  ✓ Responsive UI/UX      │  ✓ RESTful APIs                 │
-│  ✓ Modern Frameworks     │  ✓ Database Design              │
-│  ✓ State Management      │  ✓ Server Optimization          │
-│  ✓ Performance Tuning    │  ✓ Security Best Practices      │
-└─────────────────────────────────────────────────────────────┘
-```
+### 💫 About Me:
+- 🌍 I'm from **Anand, Gujarat, India**  
+- 💻 Currently learning and building projects with the **MERN Stack**  
+- 🎯 Focused on improving my **DSA & JavaScript** skills  
+- 🌱 Always exploring **new technologies & tools**  
+- 📫 Reach me at **[mecwansujit@gmail.com](mailto:mecwansujit@gmail.com)**  
+- ⚡ Fun fact: I love building projects that make life easier and more fun!
 
 ---
 
-
-## 📈 GitHub Activity
-
-```text
-🔥 Streak Stats:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Current Streak: Building every day
-  Contributions: Pushing code that matters
-  Focus: Quality over quantity
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=sujit1905&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sujit1905&theme=tokyonight&hide_border=true)
-
-</div>
+### 🌐 Connect with Me:
+<p align="left">
+<a href="https://portfolio.sujitmecwan.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-%230A66C2.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://github.com/sujit1905" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sujit-mecwan-609734245/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Frontend Magic ✨**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend Power ⚡**
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Database & Storage 💾**
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**DevOps & Tools 🔧**
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
+### 🧠 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VsCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-## 💡 Philosophy
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujit1905&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-```python
-def build_software():
-    principles = [
-        "Write clean, maintainable code",
-        "Test thoroughly, deploy confidently", 
-        "User experience is everything",
-        "Never stop learning"
-    ]
-    
-    for principle in principles:
-        apply(principle)
-        improve()
-    
-    return "Software that makes an impact"
-```
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit1905&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit1905&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-## 📬 Get In Touch
-
-```yaml
-contact:
-  email: your.email@example.com
-  linkedin: /in/yourprofile
-  portfolio: yourwebsite.com
-  twitter: @yourhandle
-  
-status: 
-  - Available for freelance projects
-  - Open to collaboration
-  - Always up for tech discussions
-```
-
-<div align="center">
-
-**Let's build something amazing together!**
-
-[💼 Portfolio](YOUR_PORTFOLIO) • [💌 Email](mailto:YOUR_EMAIL) • [🔗 LinkedIn](YOUR_LINKEDIN) • [🐦 Twitter](YOUR_TWITTER)
+### 🏗️ My Projects
+Here are some of my favorite projects:
+- 🔹 [Portfolio Website](https://portfolio.sujitmecwan.com/)
+- 🔹 [Hotel Management System (C++)](#)
+- 🔹 [JavaScript Learning Series](#)
+- 🔹 More projects coming soon...
 
 ---
 
-⭐ **Fun Fact:** I believe the best debugging tool is actually `console.log()` — prove me wrong!
+### 🎯 Goals for 2025
+- 🚀 Master Next.js and TypeScript  
+- 🧩 Build real-world full-stack apps  
+- 💼 Contribute to open-source projects  
+- 🌍 Collaborate with global developers  
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+---
 
-*"First, solve the problem. Then, write the code." – John Johnson*
-
-</div>
+<h3 align="center">✨ “Code. Create. Inspire.” ✨</h3>
