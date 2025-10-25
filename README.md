@@ -68,6 +68,7 @@
 
 
 ### 🎯 Goals for 2025
+
 - 🚀 Master Next.js and TypeScript  
 - 🧩 Build real-world full-stack apps  
 - 💼 Contribute to open-source projects  
