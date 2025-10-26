@@ -26,9 +26,11 @@
 <a href="https://portfolio.sujitmecwan.com/" target="_blank">
   <img src="https://img.shields.io/badge/🌐 Portfolio-%230A66C2.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+  &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/sujit1905" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
+  &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sujit-mecwan-609734245/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
