@@ -57,11 +57,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujit1905&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit1905&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit1905&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
