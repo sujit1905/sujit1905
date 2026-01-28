@@ -32,7 +32,7 @@ Focus areas include modern frontend development, API design, and solving real-wo
 - **Task Manager** – Full‑stack task management with authentication and CRUD.  
 - **ChatSphere** – Real‑time chat app using Socket.io, React, and Node.js.  
 - **Weatherly** – Minimal weather dashboard powered by OpenWeather API.  
-- **Portfolio Site** – Showcasing projects and work. [View portfolio](https://portfolio.sujitmecwan.com)
+- **Portfolio Site** – Showcasing projects and work. [View portfolio](https://sujitmecwan.com)
 
 ---
 
@@ -46,4 +46,4 @@ Focus areas include modern frontend development, API design, and solving real-wo
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/sujit-mecwan-609734245/) · [Portfolio](https://portfolio.sujitmecwan.com) · [Email](mailto:mecwansujit@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sujit-mecwan-609734245/) · [Portfolio](https://sujitmecwan.com) · [Email](mailto:mecwansujit@gmail.com)
