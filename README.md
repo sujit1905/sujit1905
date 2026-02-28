@@ -68,11 +68,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=00F7EF&text_color=8B949E&icon_color=00F7EF" height="192px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=00F7EF&text_color=8B949E" height="192px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujit1905&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=00F7EF&text_color=8B949E&icon_color=00F7EF" height="192px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit1905&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=00F7EF&text_color=8B949E" height="192px" alt="Top Languages" />
 </div>
-
-> **Note**: Don't forget to replace `YOUR_GITHUB_USERNAME` in the two image links above with your actual GitHub username to see your live stats!
 
 ---
 
