@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning advanced patterns in **React** and **Backend Architecture**.
 - 🤝 I’m looking to collaborate on **open-source** and innovative web projects.
 - 📫 How to reach me: [mecwansujit@gmail.com](mailto:mecwansujit@gmail.com)
-- 🌐 Check out my portfolio: [sujitmecwan.com](https://portfolioweb-zeta-seven.vercel.app/)
+- 🌐 Check out my portfolio: [https://portfolioweb-zeta-seven.vercel.app/](https://portfolioweb-zeta-seven.vercel.app/)
 
 ---
 
